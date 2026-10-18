@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.vscode/
+data/
+wandb/
+results/checkpoints/
+results/experiment_batches/
+scripts/backups/
+*.pt
+*.npy
+*.log
+.env
